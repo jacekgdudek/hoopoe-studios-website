@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Placeholder art: a capybara with a yuzu on its head, relaxing on a picnic blanket">
+<defs>
+<clipPath id="cpBlanket"><path d="M300 450 L930 435 L1040 590 L190 605 Z"/></clipPath>
+</defs>
+<rect width="1200" height="630" fill="#FFF4E2"/>
+<circle cx="1020" cy="120" r="56" fill="#F5B83D"/>
+<g fill="#FFFFFF">
+<ellipse cx="230" cy="118" rx="58" ry="22"/><ellipse cx="275" cy="100" rx="40" ry="26"/><ellipse cx="318" cy="120" rx="44" ry="18"/>
+<ellipse cx="700" cy="78" rx="46" ry="18"/><ellipse cx="736" cy="64" rx="32" ry="22"/><ellipse cx="772" cy="80" rx="38" ry="15"/>
+</g>
+<path d="M0 360 Q260 300 560 330 Q860 360 1200 300 V630 H0 Z" fill="#E3EEDC"/>
+<path d="M0 400 Q300 350 600 375 Q900 400 1200 360 V630 H0 Z" fill="#B9D3AE"/>
+<g stroke="#8FC19A" stroke-width="4" stroke-linecap="round" fill="none">
+<path d="M90 470 q6 -18 0 -30 M104 470 q4 -16 12 -26 M1110 450 q6 -18 0 -30 M1124 450 q4 -16 12 -26 M60 560 q6 -18 0 -30 M1150 560 q4 -16 12 -26"/>
+</g>
+
+<path d="M300 450 L930 435 L1040 590 L190 605 Z" fill="#FFF4E2"/>
+<g clip-path="url(#cpBlanket)" stroke="#D2622A" stroke-opacity="0.45" fill="none">
+<g stroke-width="30">
+<path d="M339.4 449.1 L243.1 604.1 M418.1 447.2 L349.4 602.2 M496.9 445.3 L455.6 600.3 M575.6 443.4 L561.9 598.4 M654.4 441.6 L668.1 596.6 M733.1 439.7 L774.4 594.7 M811.9 437.8 L880.6 592.8 M890.6 435.9 L986.9 590.9"/>
+</g>
+<g stroke-width="24"><path d="M150 476 H1080 M150 526 H1080 M150 576 H1080"/></g>
+</g>
+
+<path d="M230 396 Q280 320 330 396" fill="none" stroke="#B07A40" stroke-width="10" stroke-linecap="round"/>
+<path d="M250 392 L272 370 L294 392 Z" fill="#D2622A"/>
+<path d="M215 400 H345 L332 470 Q280 480 228 470 Z" fill="#C98E4F"/>
+<g stroke="#A06A35" stroke-width="3" fill="none"><path d="M220 422 H340 M223 444 H337 M226 462 H334 M250 404 V474 M280 404 V476 M310 404 V474"/></g>
+<rect x="208" y="390" width="144" height="16" rx="8" fill="#B07A40"/>
+
+<ellipse cx="330" cy="556" rx="52" ry="16" fill="#FFFFFF"/>
+<path d="M298 550 L362 550 L330 512 Z" fill="#F2C27B"/>
+<path d="M305 541 L355 541" stroke="#4FB37E" stroke-width="5" stroke-linecap="round"/>
+
+<ellipse cx="470" cy="502" rx="52" ry="22" fill="#8E6136"/>
+<path d="M410 470 Q395 345 520 318 Q640 296 705 345 Q770 392 760 470 Q752 515 585 518 Q425 518 410 470 Z" fill="#A0703F"/>
+<path d="M480 386 l14 -9 M524 364 l14 -9 M566 404 l14 -9 M620 372 l14 -9 M500 440 l14 -9" stroke="#8E6136" stroke-width="4" stroke-linecap="round"/>
+<rect x="676" y="488" width="28" height="34" rx="13" fill="#8E6136"/>
+<rect x="716" y="484" width="28" height="36" rx="13" fill="#8E6136"/>
+
+<ellipse cx="722" cy="287" rx="17" ry="12" transform="rotate(-20 722 287)" fill="#7A5230"/>
+<path d="M680 330 Q705 262 790 268 Q875 274 888 335 Q898 392 845 410 Q775 425 725 397 Q685 375 680 330 Z" fill="#A87747"/>
+<ellipse cx="868" cy="338" rx="27" ry="35" fill="#8E6136"/>
+<ellipse cx="876" cy="322" rx="3.5" ry="7" transform="rotate(15 876 322)" fill="#1F1B2E"/>
+<ellipse cx="888" cy="332" rx="3" ry="6" transform="rotate(15 888 332)" fill="#1F1B2E"/>
+<path d="M856 374 Q866 382 878 375" fill="none" stroke="#1F1B2E" stroke-width="3" stroke-linecap="round"/>
+<path d="M780 320 Q795 307 810 320" fill="none" stroke="#1F1B2E" stroke-width="4.5" stroke-linecap="round"/>
+<ellipse cx="800" cy="352" rx="15" ry="8" fill="#EE6F5B" fill-opacity="0.5"/>
+
+<circle cx="770" cy="254" r="25" fill="#F5A43D"/>
+<circle cx="761" cy="245" r="6" fill="#FFD08A"/>
+<path d="M772 230 L775 220" stroke="#7A5230" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="787" cy="220" rx="11" ry="5" transform="rotate(-25 787 220)" fill="#2F7D57"/>
+
+<path d="M868 526 A57 57 0 0 1 982 526" fill="none" stroke="#2F7D57" stroke-width="8"/>
+<path d="M872 526 A53 53 0 0 1 978 526 Z" fill="#E8505B"/>
+<g fill="#1F1B2E"><ellipse cx="902" cy="508" rx="3" ry="5"/><ellipse cx="925" cy="496" rx="3" ry="5"/><ellipse cx="948" cy="508" rx="3" ry="5"/></g>
+
+<g transform="translate(860 228) scale(1.6) rotate(-10)">
+<ellipse cx="-3" cy="-8" rx="5" ry="7.5" transform="rotate(-25 -3 -8)" fill="#D6E7F0" fill-opacity="0.9"/>
+<ellipse cx="4" cy="-8" rx="5" ry="7.5" transform="rotate(25 4 -8)" fill="#D6E7F0" fill-opacity="0.9"/>
+<ellipse cx="0" cy="0" rx="11" ry="7.5" fill="#F5B83D"/>
+<path d="M-3 -7 V7 M3 -7 V7" stroke="#1F1B2E" stroke-width="2.5"/>
+<circle cx="7" cy="-1.5" r="1.4" fill="#1F1B2E"/>
+</g>
+</svg>

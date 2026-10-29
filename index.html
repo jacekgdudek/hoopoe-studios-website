@@ -38,6 +38,11 @@
   .name { display: flex; flex-direction: column; gap: 20px; max-width: 100%; }
   .name img { width: min(440px, 85vw); max-width: 100%; height: auto; }
   .name p { margin: 0; font-size: 20px; color: var(--muted); }
+  .game {
+    align-self: flex-start; padding: 12px 20px; border-radius: 999px;
+    background: var(--ink); color: var(--cream); text-decoration: none; font-size: 18px;
+  }
+  .game:hover, .game:focus-visible { background: #2F7D57; }
   footer { padding: 24px 16px; text-align: center; font-size: 14px; color: var(--muted); }
   @keyframes bob { 0%, 100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-10px) rotate(-3deg); } }
   @keyframes orbit {
@@ -60,6 +65,7 @@
   <div class="name">
     <h1 style="margin: 0;"><img src="/assets/wordmark.svg" alt="Hoopoe Studios"></h1>
     <p>Coming soon.</p>
+    <a class="game" href="/capybara-picnic/">Capybara Picnic →</a>
   </div>
 </main>
 <footer>© 2026 Hoopoe Studios</footer>
